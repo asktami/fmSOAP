@@ -10,3 +10,6 @@ The text in the __reqBin SOAP Request__ field can be used at [ReqBin](https://re
 The text in the __soap_envelope__ and __options__ fields is used to POST a SOAP requext using cURL from FileMaker.
 
 Tested with FileMaker 16 thru 19.
+
+
+[fmSoap Screenshot](https://github.com/asktami/fmSOAP/blob/main/ScreenShot.png)
